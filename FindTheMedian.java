@@ -8,10 +8,6 @@ public class FindTheMedian {
         find_median(new int[]{90,100,78,89,67});
     }
 
-
-
-
-
      static void find_median(int[] v)
     {
         // Code here

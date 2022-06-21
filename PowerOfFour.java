@@ -2,12 +2,13 @@ package GFG.Mathematical;
 
 public class PowerOfFour {
     public static void main(String[] args) {
-        System.out.println(isPowerOfFour(20));
+        System.out.println(isPowerOfFour(23));
 
     }
     static int isPowerOfFour ( long n)
     {
-        // Your code here
+         //Your code here
+
         if (n == 0) {
             return 0;
         }
